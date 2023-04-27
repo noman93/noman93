@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=A+Passionate+SQA+Engineer+Trained+from+ROAD+TO+SDET." alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=A+Passionate+SQA+Engineer." alt="Typing SVG" /></a></h3>
 
 <img align="right" alt="Coding" width="500" src="https://www.lambdatest.com/resources/images/news24.gif">
 
