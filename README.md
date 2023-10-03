@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="500" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
-- 🔭 I’m currently learning **Automation And Manual Testing**
+- 🔭 I’m currently learning **Automation Testing**
 
 - 👯 I’m looking to collaborate on **Software Testing related projects**
 
