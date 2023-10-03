@@ -12,7 +12,7 @@
 - 💬 Ask me about **Manual testing, Automation testing.**
 
 
-- 📄 Know about my expertise [Resume Link](https://drive.google.com/file/d/11CKNlSg4-ziW8Qt2iDc0uVGU9VVdIdVL/view?usp=share_link)
+///## - 📄 Know about my expertise [Resume Link](https://drive.google.com/file/d/11CKNlSg4-ziW8Qt2iDc0uVGU9VVdIdVL/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
